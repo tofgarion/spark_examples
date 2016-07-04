@@ -4,3 +4,6 @@
 auto.cgpr
 spark-loc.xml
 *~
+*.o
+*.ali
+*.cgpr
