@@ -1,8 +1,8 @@
 gnatprove
 */p-loc.xml
-*/gnatinspect.db
+gnatinspect.db
 auto.cgpr
-spark-loc.xml
+*-loc.xml
 *~
 *.o
 *.ali
